@@ -1,4 +1,4 @@
-# Customtkinter Templates
+# CTK_Buttons Templates
  
 These are the .py archives of this folder and theirs buttons, respectively:
 
