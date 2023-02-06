@@ -12,13 +12,16 @@ window.title("EntrysTemplates")
 window.geometry("280x515")
 window.configure(bg="#262626")
 
+#font definition
+main_font = customtkinter.CTkFont(family="Helvetica", size=12)
+
 #Creating the entrys
 #style 1
 entry_1 = customtkinter.CTkEntry(master=window,
                                placeholder_text="CTkEntry",
                                placeholder_text_color="#cccccc",
                                
-                               text_font="none 10",
+                               font= main_font,
                                text_color="white",
                                
                                width=220,
@@ -33,7 +36,7 @@ entry_2 = customtkinter.CTkEntry(master=window,
                                placeholder_text="CTkEntry",
                                placeholder_text_color="#3b8cc6",
                                
-                               text_font="none 10",
+                               font= main_font,
                                text_color="#3b8cc6",
                                
                                width=220,
@@ -48,7 +51,7 @@ entry_3 = customtkinter.CTkEntry(master=window,
                                placeholder_text="CTkEntry",
                                placeholder_text_color="#79ae61",
                                
-                               text_font="none 10",
+                               font= main_font,
                                text_color="#79ae61",
                                
                                width=220,
@@ -63,7 +66,7 @@ entry_4 = customtkinter.CTkEntry(master=window,
                                placeholder_text="CTkEntry",
                                placeholder_text_color="#eda850",
                                
-                               text_font="none 10",
+                               font= main_font,
                                text_color="#eda850",
                                
                                width=220,
@@ -78,7 +81,7 @@ entry_5 = customtkinter.CTkEntry(master=window,
                                placeholder_text="CTkEntry",
                                placeholder_text_color="#c75d55",
                                
-                               text_font="none 10",
+                               font= main_font,
                                text_color="#c75d55",
                                
                                width=220,
@@ -95,7 +98,7 @@ entry_6 = customtkinter.CTkEntry(master=window,
                                placeholder_text="CTkEntry",
                                placeholder_text_color="black",
                                
-                               text_font="none 10",
+                               font= main_font,
                                text_color="black",
                                
                                width=220,
@@ -110,7 +113,7 @@ entry_7 = customtkinter.CTkEntry(master=window,
                                placeholder_text="CTkEntry",
                                placeholder_text_color="black",
                                
-                               text_font="none 10",
+                               font= main_font,
                                text_color="black",
                                
                                width=220,
@@ -125,7 +128,7 @@ entry_8 = customtkinter.CTkEntry(master=window,
                                placeholder_text="CTkEntry",
                                placeholder_text_color="black",
                                
-                               text_font="none 10",
+                               font= main_font,
                                text_color="black",
                                
                                width=220,
@@ -140,7 +143,7 @@ entry_9 = customtkinter.CTkEntry(master=window,
                                placeholder_text="CTkEntry",
                                placeholder_text_color="black",
                                
-                               text_font="none 10",
+                               font= main_font,
                                text_color="black",
                                
                                width=220,
@@ -155,7 +158,7 @@ entry_10 = customtkinter.CTkEntry(master=window,
                                placeholder_text="CTkEntry",
                                placeholder_text_color="black",
                                
-                               text_font="none 10",
+                               font= main_font,
                                text_color="black",
                                
                                width=220,
