@@ -23,3 +23,8 @@ A collection of customTkinter templates for various types of widgets and/or comp
 * **--> [Video Downloader App](https://github.com/arthurdeka/CustomTkinter-Templates/tree/main/app-EXAMPLES/video-downloader-app)**
 
 ![image](https://user-images.githubusercontent.com/97618574/231630467-abcf28d0-413e-4b80-922c-9e12071d9c5c.png)
+
+---
+* **--> [Dollar To Euro Conversor](https://github.com/arthurdeka/CustomTkinter-Templates/blob/main/app-EXAMPLES/Dollar-To-Euro-Conversor.py)**
+
+![Captura de tela 2024-07-30 123405](https://github.com/user-attachments/assets/d291b0bf-46ef-430a-ab1a-04c87e3348e5)
