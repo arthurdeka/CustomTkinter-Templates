@@ -33,3 +33,8 @@ A collection of customTkinter templates for various types of widgets and/or comp
 * **--> [Dollar To Euro Conversor](https://github.com/arthurdeka/CustomTkinter-Templates/blob/main/app-EXAMPLES/Dollar-To-Euro-Conversor.py)**
 
 ![Captura de tela 2024-07-30 123405](https://github.com/user-attachments/assets/d291b0bf-46ef-430a-ab1a-04c87e3348e5)
+
+---
+* **--> [Password Generator](https://github.com/arthurdeka/CustomTkinter-Templates/blob/main/app-EXAMPLES/PasswordGenerator.py)**
+
+![Captura de tela 2024-08-04 115142](https://github.com/user-attachments/assets/3dda3027-8fac-4cb0-b37c-2a9a6529bfdf)
