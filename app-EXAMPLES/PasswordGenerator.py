@@ -14,7 +14,7 @@ def generate_password():
 
 # Main Window Properties
 window = Tk()
-window.title("Calculator")
+window.title("Password Generator")
 window.geometry("400x150")
 window.configure(bg="#212121")
 
